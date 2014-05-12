@@ -1,0 +1,53 @@
+<?xml version="1.0" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="KML2GPX.COM" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+    <metadata>
+        <name><![CDATA[Converted from a KML file using KML2GPX.COM]]></name>
+        <desc><![CDATA[Converted from a KML file KML2GPX.COM]]></desc>
+                </metadata>
+
+                                                                                
+                <wpt lat="36.434305" lon="25.422798">
+                                                            <ele>0</ele>
+                    <name><![CDATA[Hotel Sunny Villas]]></name>
+                    <cmt><![CDATA[Waypoint no: 1]]></cmt>
+                    <desc><![CDATA[This is waypoint no: 1]]></desc>
+                </wpt>
+                                                                                                                            
+                <wpt lat="37.974564" lon="23.730388">
+                                                            <ele>0</ele>
+                    <name><![CDATA[Kimon Hotel]]></name>
+                    <cmt><![CDATA[Waypoint no: 2]]></cmt>
+                    <desc><![CDATA[This is waypoint no: 2]]></desc>
+                </wpt>
+                                                                                                                            
+                <wpt lat="41.907268" lon="12.50008">
+                                                            <ele>0</ele>
+                    <name><![CDATA[Via Castelfidardo, 26, 00185 Roma, Italy]]></name>
+                    <cmt><![CDATA[Waypoint no: 3]]></cmt>
+                    <desc><![CDATA[This is waypoint no: 3]]></desc>
+                </wpt>
+                                                                                                                            
+                <wpt lat="43.22874" lon="11.19298">
+                                                            <ele>0</ele>
+                    <name><![CDATA[Tenuta di Spannocchia]]></name>
+                    <cmt><![CDATA[Waypoint no: 4]]></cmt>
+                    <desc><![CDATA[This is waypoint no: 4]]></desc>
+                </wpt>
+                                                                                                                            
+                <wpt lat="45.88582" lon="10.84336">
+                                                            <ele>0</ele>
+                    <name><![CDATA[Hotel Giardino Verdi]]></name>
+                    <cmt><![CDATA[Waypoint no: 5]]></cmt>
+                    <desc><![CDATA[This is waypoint no: 5]]></desc>
+                </wpt>
+                                                                                                                            
+                <wpt lat="45.440425" lon="12.335761">
+                                                            <ele>0</ele>
+                    <name><![CDATA[Locanda Ai Santi Apostoli]]></name>
+                    <cmt><![CDATA[Waypoint no: 6]]></cmt>
+                    <desc><![CDATA[This is waypoint no: 6]]></desc>
+                </wpt>
+                                                            
+                    
+    
+</gpx>

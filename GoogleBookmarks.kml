@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="feat_1">
+        <Placemark id="feat_2">
+            <name>Hotel Sunny Villas</name>
+            <Point id="geom_0">
+                <coordinates>25.422798,36.434305,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_3">
+            <name>Kimon Hotel</name>
+            <Point id="geom_1">
+                <coordinates>23.730388,37.974564,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4">
+            <name>Via Castelfidardo, 26, 00185 Roma, Italy</name>
+            <Point id="geom_2">
+                <coordinates>12.50008,41.907268,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5">
+            <name>Tenuta di Spannocchia</name>
+            <Point id="geom_3">
+                <coordinates>11.19298,43.22874,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6">
+            <name>Hotel Giardino Verdi</name>
+            <Point id="geom_4">
+                <coordinates>10.84336,45.88582,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_7">
+            <name>Locanda Ai Santi Apostoli</name>
+            <Point id="geom_5">
+                <coordinates>12.335761,45.440425,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>
